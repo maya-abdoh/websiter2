@@ -43,4 +43,3 @@ function userValidate(user){
     return Joi.ValidationError(user, schema)
 }
 exports.User = User;
-zzzz
